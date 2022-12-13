@@ -1,0 +1,13 @@
+// You can use the intellinse to learn about possible attributes.
+//Hover to view description of exsisting attribute
+ {"version": "0.2.0", 
+    "configurations":[ 
+   {
+  "type": "chrome",
+  "request":"launch", 
+  "name":"launch chrome against localhost", 
+  "url":"http://localhost:3000", 
+  "webRoot": "${workSpaceFolder" 
+ }
+ ] 
+ }
